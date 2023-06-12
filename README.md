@@ -1,16 +1,21 @@
 # waznii
 
-A new Flutter project.
+flutter project bmi calculator
 
-## Getting Started
+# tools
 
-This project is a starting point for a Flutter application.
+googlefonts
+animation 
+FlutterToast
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Features
+calculate your Bmi using your weight and heigh and gender
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+#screenshots
+
+
+![3](https://github.com/Abdelrahmanyehia9/wazni/assets/136289803/99b439c2-d220-4a8f-bd39-6e0d0b5049e7)
+![1](https://github.com/Abdelrahmanyehia9/wazni/assets/136289803/dc5e49e5-5789-448c-a88d-ff59ddb81690)
+![2](https://github.com/Abdelrahmanyehia9/wazni/assets/136289803/9ea58f27-7c1d-43b2-953e-456b9668f790)
