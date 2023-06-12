@@ -9,7 +9,8 @@ flutter project bmi calculator
  animation
  
  FlutterToast 
-
+ 
+ MVC 
 
 # Features
 calculate your Bmi using your weight and heigh and gender
