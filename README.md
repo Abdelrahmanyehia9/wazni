@@ -4,9 +4,11 @@ flutter project bmi calculator
 
 # tools
 
- googlefonts \n
- animation \n
- FlutterToast \n
+ googlefonts 
+ 
+ animation
+ 
+ FlutterToast 
 
 
 # Features
